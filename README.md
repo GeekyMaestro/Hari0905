@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hari0905
+- 👋 Hi, I’m Hari (@Hari0905)
 - 👀 I’m interested in Data Science, Game Development, Web Development, Vlogging
 - 🌱 I’m currently learning Social Media Analysis, Data Visualization
 - 💞️ I’m looking to collaborate on Front-End Web Development, MERN/MEAN/LAMP stack
